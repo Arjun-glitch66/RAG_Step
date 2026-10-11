@@ -37,7 +37,7 @@ The `data/` directory contains the four documents used as the knowledge base for
 The notebook requires four documents stored in the `data/` directory.
 
 1. Open the [`data` folder](./data) in this repository.
-2. Download all four documents to your computer.
+2. Download all four documents except .gitkeep to your computer.
 3. Return to the Colab notebook.
 4. Run the document upload cell.
 5. Select all four downloaded files when the upload dialog appears.
