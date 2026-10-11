@@ -1,0 +1,211 @@
+REMOTE AND HYBRID WORK POLICY
+Professional Draft Template | India-focused workplace policy
+
+Organization: [Organization Name]
+Effective date: [Insert Effective Date]
+Status: Draft for review
+
+PURPOSE OF THIS DOCUMENT
+This editable template provides a structured starting point for a remote
+and hybrid work policy. Customize bracketed fields and validate legal
+requirements before adoption.
+
+----------------------------------------------------------------------
+1. PURPOSE
+----------------------------------------------------------------------
+- This policy sets out how employees may work from home or another
+  approved location, so that flexibility is offered fairly while
+  productivity, security, collaboration and employee well-being are
+  maintained.
+
+----------------------------------------------------------------------
+2. SCOPE
+----------------------------------------------------------------------
+- This draft applies to employees of [Organization Name]. The
+  organization should define whether it covers permanent, probationary,
+  fixed-term, part-time, contract and intern roles.
+- Remote work is a work arrangement, not a separate employment
+  contract. Applicable employment laws, state rules, standing orders
+  and employment contracts take precedence over this template.
+
+----------------------------------------------------------------------
+3. POLICY PRINCIPLES
+----------------------------------------------------------------------
+- Remote work is a privilege tied to role suitability and business
+  needs; it is not an automatic entitlement.
+- Remote employees remain bound by all organizational policies,
+  including the Code of Conduct, the Leave Policy and the POSH policy.
+- Expectations for output, availability and communication are the same
+  whether an employee works on-site or remotely.
+- Arrangements should be applied consistently and without
+  discrimination.
+
+----------------------------------------------------------------------
+4. WORK ARRANGEMENT TYPES - PROPOSED FRAMEWORK
+----------------------------------------------------------------------
+- On-site: Works from the office or designated work location on all
+  working days.
+- Hybrid: Works from the office on [Insert Number] days per week and
+  remotely on the remaining days. Suggested planning assumption: 2-3
+  office days per week.
+- Fully remote: Works remotely on all working days. Suitable only for
+  roles approved as remote by the manager and HR.
+- Temporary remote work: Short-term arrangement for reasons such as
+  illness recovery, travel disruption, extreme weather or personal
+  circumstances, with a defined end date.
+
+----------------------------------------------------------------------
+5. ELIGIBILITY
+----------------------------------------------------------------------
+- Role suitability: The job duties can be performed effectively
+  without a physical presence.
+- Performance: The employee is meeting expectations. New joiners and
+  employees on a performance plan may be asked to work on-site for an
+  initial period of [Insert Period].
+- Readiness: The employee has a suitable workspace, reliable internet
+  and the equipment needed to work securely.
+- The numbers above are illustrative planning assumptions only. HR/legal
+  should confirm requirements for each work location and employee
+  category.
+
+----------------------------------------------------------------------
+6. REQUEST AND APPROVAL PROCESS
+----------------------------------------------------------------------
+- Request: Submit a request through the approved HR system or form,
+  stating the proposed arrangement, work location and duration.
+- Approval: The reporting manager reviews role suitability and team
+  coverage. HR reviews policy, legal and security questions.
+- Review: Approved arrangements are reviewed every [Insert Period], and
+  may be changed or withdrawn with reasonable notice for business or
+  performance reasons.
+- Ad hoc remote days: Notify the manager in advance through the
+  approved channel, and obtain approval where the policy requires it.
+
+----------------------------------------------------------------------
+7. WORKING HOURS, AVAILABILITY AND COMMUNICATION
+----------------------------------------------------------------------
+- Employees should be reachable during agreed core hours of
+  [Insert Core Hours] through the approved communication tools.
+- Attendance and working hours should be recorded through the approved
+  system. Overtime must be pre-approved and handled according to
+  applicable law and the employment contract.
+- Employees should attend scheduled meetings, respond to messages
+  within a reasonable time and update their calendar or status when
+  unavailable.
+- Planned absence is recorded as leave under the Leave Policy. Working
+  remotely is not a substitute for leave.
+- Managers should respect personal time and avoid routine requests
+  outside agreed working hours, except for genuine urgent needs.
+
+----------------------------------------------------------------------
+8. WORKSPACE, EQUIPMENT AND EXPENSES
+----------------------------------------------------------------------
+- Employees are responsible for a safe, quiet and reasonably private
+  workspace with a dependable internet connection.
+- Organization-issued equipment remains company property, must be used
+  for work purposes, and must be returned when the arrangement or
+  employment ends.
+- Equipment, internet or utility support: [Insert Policy - e.g.
+  Provided / Reimbursed up to INR [Amount] per month / Not provided].
+  Expense claims must follow the approved reimbursement process.
+- Loss, theft or damage of equipment must be reported to IT and the
+  manager immediately.
+
+----------------------------------------------------------------------
+9. INFORMATION SECURITY AND CONFIDENTIALITY
+----------------------------------------------------------------------
+- Use only approved devices, accounts, VPN and collaboration tools for
+  work. Do not store company data on personal accounts or unapproved
+  storage.
+- Lock devices when unattended, use strong passwords and multi-factor
+  authentication, and keep software up to date.
+- Avoid working on confidential matters in public places or on public
+  Wi-Fi without the approved security controls.
+- Do not allow family members or others to access company devices or
+  data.
+- Suspected security incidents or data breaches must be reported to IT
+  or the designated security contact immediately.
+
+----------------------------------------------------------------------
+10. HEALTH, SAFETY AND WELL-BEING
+----------------------------------------------------------------------
+- Employees should take regular breaks, set up an ergonomic workspace
+  and raise any work-related health or safety concerns with their
+  manager or HR.
+- Work-related injuries should be reported promptly. HR will advise on
+  next steps in line with applicable law.
+- Employees may ask HR about reasonable adjustments, and requests will
+  be handled confidentially.
+- Workplace conduct standards, including the POSH policy, continue to
+  apply to video calls, chats and other virtual interactions.
+
+----------------------------------------------------------------------
+11. WORKING FROM OUTSIDE THE USUAL LOCATION
+----------------------------------------------------------------------
+- Employees must work from the location approved in their arrangement.
+  Working from another city, state or country requires prior written
+  approval from the manager and HR.
+- Cross-border work may have tax, immigration, data protection and
+  social security implications and is not permitted without HR/legal
+  review.
+
+----------------------------------------------------------------------
+12. PERFORMANCE AND ACCOUNTABILITY
+----------------------------------------------------------------------
+- Performance is assessed on outcomes, quality, timeliness and
+  collaboration, not on visible activity alone.
+- Managers should set clear goals and hold regular check-ins.
+- Employees should flag blockers early and keep their work visible
+  through agreed tools and updates.
+
+----------------------------------------------------------------------
+13. MISUSE, EXCEPTIONS AND DISPUTES
+----------------------------------------------------------------------
+- Misreporting working hours, breaching security rules or repeated
+  failure to follow this policy may lead to withdrawal of the remote
+  arrangement and may be handled under the organization's disciplinary
+  process, consistent with applicable law.
+- Exceptions should be documented and approved by HR or the designated
+  authority. Employees may raise questions or concerns with HR without
+  retaliation.
+
+----------------------------------------------------------------------
+14. RECORDS AND PRIVACY
+----------------------------------------------------------------------
+- Remote work approvals, attendance and equipment records are kept by
+  HR/IT and accessible only to people who need them for HR,
+  management, compliance or payroll purposes.
+- Monitoring of devices or activity, if any, must be proportionate,
+  disclosed in advance and consistent with applicable data protection
+  law.
+
+----------------------------------------------------------------------
+15. REVIEW AND GOVERNANCE
+----------------------------------------------------------------------
+- Policy owner: HR / People Operations.
+- Approver: [Authorized Approver / Leadership Team].
+- Review frequency: Annually, and whenever applicable law or
+  organizational requirements change.
+- Version: 1.0 | Status: Draft for review.
+
+----------------------------------------------------------------------
+APPENDIX A - PROPOSED ARRANGEMENT SUMMARY
+----------------------------------------------------------------------
+Arrangement      | Typical pattern          | Approval / Notes
+-----------------|--------------------------|----------------------------
+On-site          | All days at office       | Default for roles needing
+                 |                          | physical presence
+Hybrid           | [2-3] office days/week   | Manager approval; review
+                 | (illustrative)           | periodically
+Fully remote     | All days remote          | Manager + HR approval; role
+                 |                          | suitability required
+Temporary remote | Defined short period     | Manager approval; end date
+                 |                          | recorded
+Outside location | Another city/state/      | Prior written HR/legal
+                 | country                  | approval required
+
+----------------------------------------------------------------------
+DISCLAIMER: This is a general template and is not legal advice. Figures
+and arrangements are illustrative and must be reviewed against current
+applicable laws and local employment requirements before
+implementation.
